@@ -1,0 +1,5 @@
+package NewLineInString
+
+fun main() {
+
+}
