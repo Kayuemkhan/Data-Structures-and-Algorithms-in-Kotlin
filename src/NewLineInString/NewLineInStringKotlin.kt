@@ -1,5 +1,0 @@
-package NewLineInString
-
-fun main() {
-
-}
